@@ -1,0 +1,18 @@
+@font-face{
+    font-family: "Hogwarts";
+    src:url("./fonts/Tautz.ttf");
+  }
+  
+  @font-face {
+    font-family: "Hogwarts-Bold";
+    src: url('./Tautz\ Bold.ttf');
+    font-weight:bold ;
+  }
+
+  @font-face {
+    font-family: "Hogwarts-Light";
+    src: url('./fonts/Tautz\ Light.ttf');
+  font-weight: lighter;
+  }
+  
+  
